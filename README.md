@@ -1,25 +1,196 @@
-<h1 align="center">Hi 👋, I'm Med Skander Gharbi</h1>
-<h3 align="center">A passionate Software/Web developer from Tunisia!</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Skander+Gharbi;Data+Engineer+%26+Software+Engineer;Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skander2001&label=Profile%20views&color=0e75b6&style=flat" alt="skander2001" /> </p>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Coding" width="500" />
+</div>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Java, Express.js ..**
-
-- 📫 How to reach me **skandergharbi.contact@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/skandergharbi2202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/skandergharbi2202/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skander2001&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="skander2001" />
+  <img src="https://img.shields.io/github/followers/skander2001?label=Followers&style=for-the-badge&color=00D4FF" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skander2001&show_icons=true&locale=en&layout=compact" alt="skander2001" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skander2001&show_icons=true&locale=en" alt="skander2001" /></p>
+I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Frankfurt, Germany**, currently pursuing an **M.Sc. in Computer Science at Philipps-Universität Marburg**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skander2001&" alt="skander2001" /></p>
+- 🔭 Currently working as a **Data Engineer & Software Engineer**
+- 🌱 Deepening expertise in **Data Engineering, Cloud Architecture & AI/ML Pipelines**
+- 💬 Ask me about **Java, Python, Node.js, Angular, Next.js, Data Pipelines, RAG Systems**
+- 🌍 Open to collaboration on **Data Engineering, Full-Stack & AI projects**
+- 📫 Reach me at **skandergharbi.contact@gmail.com**
+- 🏠 Based in **Frankfurt, Germany** · Eligible to work in Germany (valid work permit)
+
+---
+
+## 🚀 Professional Experience
+
+### 🔹 Frontend Developer — AICU *(Internship)*
+*Jul 2025 – Jan 2026 | Heilbronn, Germany*
+
+- Stabilized the core **node-editor** of the aicuflow platform by resolving state-synchronization bugs across node editing, connections, and undo/redo
+- Improved editor usability with **snap-to-grid alignment**, smoother **drag-and-drop**, and reliable **history tracking**
+- Developed **login & registration UI** integrated with the platform's authentication system, and added a **chatbot**
+- **Stack:** Angular, Next.js, React Flow
+
+### 🔹 Full-Stack Developer — Qubits Engineering *(Internship)*
+*Aug 2024 – Sep 2024 | Knoxville, USA (Remote)*
+
+- Built a **full-stack admin dashboard** to manage projects, users, and workflows
+- Architected frontend interfaces and **backend REST APIs**, including database schema design
+- **Stack:** Next.js, Express.js, SQL
+
+### 🔹 Full-Stack Developer — Délice Danone *(Internship)*
+*Feb 2022 – Jun 2022 | Tunis, Tunisia*
+
+- Created a **web platform** to optimize order-management workflows, improving delivery accuracy
+- Streamlined business processes through **automation** to increase operational efficiency
+- **Stack:** Express.js, EJS, HTML, CSS
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</p>
+
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+### 🤖 AI / ML & Data
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🥗 NutriCare — AI-Powered Nutritionist & Patient Management Platform
+> **Full-Stack Platform with RAG-based Meal Plan Generation**
+
+- Built a **full-stack platform** with role-separated patient and practitioner views
+- Engineered an **AI meal-plan generator** using **Retrieval-Augmented Generation (RAG)** — embedded patient profiles, retrieved similar cases from **ChromaDB**, and prompted **OpenAI API** for personalized 7-day meal plans
+- Implemented **JWT authentication**, bcrypt hashing, **Google OAuth**, and role-based guards on Angular routes and Flask middleware
+- Designed a **layered Flask backend** (controller → service → model) over a **nine-table MySQL schema** with appointment conflict detection
+- **Stack:** Angular, TypeScript, Python (Flask), MySQL, ChromaDB, OpenAI API
+
+### 🚀 CI/CD Pipeline for Spring Boot Application
+> **Automated DevOps Pipeline with Jenkins, Docker & SonarQube**
+
+- Engineered an automated **CI/CD pipeline** that compiles, tests, and deploys a Spring Boot (Maven) application on every Git push via GitHub webhook through an **Ngrok-tunneled Jenkins server**
+- Automated quality stage with **JUnit & Mockito** tests, **JaCoCo** coverage reporting, and **SonarQube** static analysis
+- Containerized the application and MySQL with **Docker Compose**, stored artifacts in **Nexus**, published images to **Docker Hub**
+- **Stack:** Jenkins, Docker, Docker Compose, Spring Boot, Maven, SonarQube, Nexus, MySQL
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period | Location |
+|--------|-------------|--------|----------|
+| **M.Sc. Computer Science** | Philipps-Universität Marburg | Oct 2025 – Present | Marburg, Germany |
+| **Engineering Degree in Computer Science** | ESPRIT | Sep 2022 – Dec 2025 | Tunis, Tunisia |
+| **B.Sc. Computer Engineering** | Faculty of Sciences of Tunis | Sep 2019 – Jun 2022 | Tunis, Tunisia |
+
+> 🌍 *Exchange semester at Hochschule Schmalkalden, Germany (Oct 2024 – Sep 2025)*
+
+---
+
+## 📜 Certifications
+
+- **DeepLearning.AI** — NLP with Probabilistic Models; NLP with Classification & Vector Spaces
+- **NVIDIA** — Building Transformer-Based NLP Applications
+- **Microsoft Azure** — Cloud Services; Management Tools & Security
+
+---
+
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇬🇧 English | B2 |
+| 🇫🇷 French | C1 |
+| 🇩🇪 German | B1 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skander2001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skander2001&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&layout=compact" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skander2001&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/skandergharbi2202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:skandergharbi.contact@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/skander2001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let's+build+something+amazing+together!" alt="Footer Typing" />
+</div>
