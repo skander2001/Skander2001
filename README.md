@@ -22,7 +22,7 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
 - 💬 Ask me about **Java, Python, Node.js, Angular, Next.js, Data Pipelines, RAG Systems**
 - 🌍 Open to collaboration on **Data Engineering, Full-Stack & AI projects**
 - 📫 Reach me at **skandergharbi.contact@gmail.com**
-- 🏠 Based in **Frankfurt, Germany** · Eligible to work in Germany (valid work permit)
+- 🏠 Based in **Germany** · Eligible to work in Germany (valid work permit)
 
 ---
 
@@ -60,26 +60,16 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases
@@ -87,8 +77,6 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -97,40 +85,13 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-### 🤖 AI / ML & Data
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</p>
+
 
 ---
 
-## 📂 Featured Projects
-
-### 🥗 NutriCare — AI-Powered Nutritionist & Patient Management Platform
-> **Full-Stack Platform with RAG-based Meal Plan Generation**
-
-- Built a **full-stack platform** with role-separated patient and practitioner views
-- Engineered an **AI meal-plan generator** using **Retrieval-Augmented Generation (RAG)** — embedded patient profiles, retrieved similar cases from **ChromaDB**, and prompted **OpenAI API** for personalized 7-day meal plans
-- Implemented **JWT authentication**, bcrypt hashing, **Google OAuth**, and role-based guards on Angular routes and Flask middleware
-- Designed a **layered Flask backend** (controller → service → model) over a **nine-table MySQL schema** with appointment conflict detection
-- **Stack:** Angular, TypeScript, Python (Flask), MySQL, ChromaDB, OpenAI API
-
-### 🚀 CI/CD Pipeline for Spring Boot Application
-> **Automated DevOps Pipeline with Jenkins, Docker & SonarQube**
-
-- Engineered an automated **CI/CD pipeline** that compiles, tests, and deploys a Spring Boot (Maven) application on every Git push via GitHub webhook through an **Ngrok-tunneled Jenkins server**
-- Automated quality stage with **JUnit & Mockito** tests, **JaCoCo** coverage reporting, and **SonarQube** static analysis
-- Containerized the application and MySQL with **Docker Compose**, stored artifacts in **Nexus**, published images to **Docker Hub**
-- **Stack:** Jenkins, Docker, Docker Compose, Spring Boot, Maven, SonarQube, Nexus, MySQL
-
----
 
 ## 🎓 Education
 
@@ -144,13 +105,6 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
 
 ---
 
-## 📜 Certifications
-
-- **DeepLearning.AI** — NLP with Probabilistic Models; NLP with Classification & Vector Spaces
-- **NVIDIA** — Building Transformer-Based NLP Applications
-- **Microsoft Azure** — Cloud Services; Management Tools & Security
-
----
 
 ## 🌐 Languages
 
