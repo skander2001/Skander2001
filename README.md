@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Skander+Gharbi;Data+Engineer+%26+Software+Engineer;Full-Stack+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" alt="Coding" width="500" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skander2001&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="skander2001" />
   <img src="https://img.shields.io/github/followers/skander2001?label=Followers&style=for-the-badge&color=00D4FF" alt="followers" />
@@ -60,6 +56,9 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 ### 🧩 Frameworks & Libraries
@@ -69,7 +68,10 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases
@@ -77,21 +79,68 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ Cloud & DevOps
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
 </p>
 
-
+### 🤖 AI / ML & Data Engineering
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
 ---
 
+## 📊 Data Engineering Skills
+
+| Category | Skills |
+|----------|--------|
+| **Data Processing** | Python, Pandas, PySpark, NumPy |
+| **ETL / Orchestration** | Apache Airflow, Azure Data Factory |
+| **Data Storage** | AWS S3, AWS RDS, PostgreSQL, MySQL, MongoDB |
+| **Cloud Services** | AWS EC2, AWS S3, AWS Lambda, Microsoft Azure |
+| **Vector Databases** | ChromaDB |
+| **AI / RAG** | Retrieval-Augmented Generation, OpenAI API, LangChain |
+| **Visualization** | Seaborn, Matplotlib, Charts |
+| **Backend for Data** | Flask, FastAPI, Express.js |
+
+---
+
+## 📂 Featured Projects
+
+### 🥗 NutriCare — AI-Powered Nutritionist & Patient Management Platform
+> **Full-Stack Platform with RAG-based Meal Plan Generation**
+
+- Built a **full-stack platform** with role-separated patient and practitioner views
+- Engineered an **AI meal-plan generator** using **Retrieval-Augmented Generation (RAG)** — embedded patient profiles, retrieved similar cases from **ChromaDB**, and prompted **OpenAI API** for personalized 7-day meal plans
+- Implemented **JWT authentication**, bcrypt hashing, **Google OAuth**, and role-based guards on Angular routes and Flask middleware
+- Designed a **layered Flask backend** (controller → service → model) over a **nine-table MySQL schema** with appointment conflict detection
+- **Stack:** Angular, TypeScript, Python (Flask), MySQL, ChromaDB, OpenAI API
+
+### 🚀 CI/CD Pipeline for Spring Boot Application
+> **Automated DevOps Pipeline with Jenkins, Docker & SonarQube**
+
+- Engineered an automated **CI/CD pipeline** that compiles, tests, and deploys a Spring Boot (Maven) application on every Git push via GitHub webhook through an **Ngrok-tunneled Jenkins server**
+- Automated quality stage with **JUnit & Mockito** tests, **JaCoCo** coverage reporting, and **SonarQube** static analysis
+- Containerized the application and MySQL with **Docker Compose**, stored artifacts in **Nexus**, published images to **Docker Hub**
+- **Stack:** Jenkins, Docker, Docker Compose, Spring Boot, Maven, SonarQube, Nexus, MySQL
+
+---
 
 ## 🎓 Education
 
@@ -105,6 +154,13 @@ I'm a **Computer Science Engineer** and **Full-Stack Developer** based in **Fran
 
 ---
 
+## 📜 Certifications
+
+- **DeepLearning.AI** — NLP with Probabilistic Models; NLP with Classification & Vector Spaces
+- **NVIDIA** — Building Transformer-Based NLP Applications
+- **Microsoft Azure** — Cloud Services; Management Tools & Security
+
+---
 
 ## 🌐 Languages
 
